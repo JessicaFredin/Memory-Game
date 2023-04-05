@@ -188,5 +188,4 @@ closePopup.addEventListener('click', function() {
   popup.classList.remove('active');
 });
 
-
 restartGame.addEventListener("click", startGame)
